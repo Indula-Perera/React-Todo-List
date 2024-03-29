@@ -13,7 +13,7 @@ Welcome to our sleek and intuitive Todo web application, built with the power of
 ## Technologies Used 💻
 - React
 - HTML/CSS
-- [Any other libraries or dependencies you used]
+
 
 ## Installation 🛠️
 1. **Clone the repository:**
@@ -36,8 +36,10 @@ Welcome to our sleek and intuitive Todo web application, built with the power of
     ```
 2. **Open your browser and go to** `http://localhost:3000` **to view the app.**
 
-## Screenshots 📸 (Optional)
-[Add screenshots of your application here if you have any]
+## Screenshots 📸 
+
+![Screenshot 2024-03-29 235359](https://github.com/Indula-Perera/React-Todo-List/assets/105506303/6b6eb4fc-e1dd-4e38-8a60-349ba69e4100)
+
 
 ## Contributing 🤝
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
