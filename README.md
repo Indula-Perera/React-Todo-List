@@ -18,7 +18,7 @@ Welcome to our sleek and intuitive Todo web application, built with the power of
 ## Installation 🛠️
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/todo-web-app.git
+    git clone https://github.com/Indula-Perera/React-Todo-List.git
     ```
 2. **Navigate into the project directory:**
     ```bash
